@@ -5,10 +5,15 @@ This project contains a set of routes and meta profiles for
 with the goal to automate the [Dereth Exploration](http://acpedia.org/wiki/Dereth_Exploration) quest series.
 
 ## I want to use these, what do I do?
-All .met files are self-contained. Just download the one(s) you want, put them into your VTank installation folder, log in to the game and they should be available and functional.
+All .met files are self-contained. Just download the one(s) you want, put them into your VTank installation folder,
+log in to the game and they should be available and functional.
+
+To be clear: If you just want to use these, only download the .met file you want.
+You do *not need to download individual routes* to use a .met file.
 
 It is recommended that you use a profile that contains all life buffs and at the very least BPS banes.
 You should not be burdened and certainly not defenseless!
+
 
 ## Known Issues
 ### All meta profiles
