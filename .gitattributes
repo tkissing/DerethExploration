@@ -20,3 +20,6 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+*.met	eol=crlf diff=astextplain
+*.nav	eol=crlf diff=astextplain
