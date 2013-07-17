@@ -12,7 +12,7 @@ uTank2 NAV 1.2
 -100.724679597219
 0.0250270823637644
 0
-/vt opt set AttackDistance 4
+/vt opt set AttackDistance 0.018
 4
 8.69432957967122
 -100.724679597219
